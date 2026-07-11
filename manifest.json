@@ -1,0 +1,29 @@
+{
+  "name": "Candy Game",
+  "short_name": "CandyGame",
+  "description": "糖果消消乐 - 休闲三消游戏",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff0f5",
+  "theme_color": "#a855f7",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "uniStatistics": {
+    "enable": true
+  },
+  "uniAd": {
+    "appId": "your-uni-ad-app-id",
+    "bannerAdUnitId": "your-banner-ad-unit-id",
+    "rewardAdUnitId": "your-reward-ad-unit-id"
+  }
+}
