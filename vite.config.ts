@@ -3,10 +3,11 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  server: {
-    host: '0.0.0.0',
-    port: 5173,
-  },
+  // server 配置已注释，适配 GitHub Actions 无头环境
+  // server: {
+  //   host: '0.0.0.0',
+  //   port: 5173,
+  // },
   build: {
     outDir: 'dist',
     sourcemap: true,
