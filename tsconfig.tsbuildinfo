@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/router.tsx","./src/components/AdButton.tsx","./src/components/AuthPanel.tsx","./src/components/GameBoard.tsx","./src/components/Header.tsx","./src/components/ProfilePanel.tsx","./src/lib/utils.ts","./src/routes/index.tsx","./src/supabase/client.ts","./src/supabase/types.ts","./src/types/index.ts","./vite-env.d.ts"],"errors":true,"version":"5.9.3"}
